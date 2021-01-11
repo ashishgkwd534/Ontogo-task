@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Quarterpillars</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="gallery_rationale">This app needs access to your gallery and media content.</string>
+    <string name="api_key">AIzaSyDU_X4gsSMEr_hJS76C2Wq3oi-tjz-SNI8</string>
+    <string name="zero">Zero</string>
+    <string name="skip_for_now">Skip for now</string>
+    <string name="welcome_to_quarterpillars">Welcome to Quarterpillars!</string>
+    <string name="server_fail">Fail to connect server</string>
+    <string name="already_has_account">Already has account try to login with email and password</string>
+    <string name="no_support">Not supported yet</string>
+    <string name="whats_you_email">Whats you email?</string>
+    <string name="login_success">Login Successfull</string>
+    <string name="registrastion_success">Registration successfull</string>
+    <string name="sonthing_wrong">Something went wrong.. try again</string>
+    <string name="sing_up">We cannot find this email. Let\'s Create an Account</string>
+
+
+</resources>
